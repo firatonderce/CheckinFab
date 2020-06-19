@@ -1,0 +1,6 @@
+module Pods_CheckinFab_CheckinFabTests {
+  umbrella header "Pods-CheckinFab-CheckinFabTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
